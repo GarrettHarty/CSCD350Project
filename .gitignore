@@ -1,0 +1,11 @@
+
+#Ignore IDE specific files (in this case eclipse)
+*.project
+*.classpath
+.settings/*
+
+#ignore compiled code
+/bin/*
+
+#Ignore project generated output files
+output.csv
